@@ -1,7 +1,7 @@
 3Easy Last Editor
 =================
 
-3Easy Last Editor is an EE2 Extension adding a {last_editor} tag to the channel entries loop. Each time an entry is submitted the last editor is updated with the logged in member’s screen name.
+3Easy Last Editor is an EE2 Extension adding a {last_editor} tag to the channel entries loop. Each time an entry is submitted the last editor is updated with the logged in member’s screen name. The tag defaults to {author} for new entries.
 
 
 Installing 3Easy Last Editor
