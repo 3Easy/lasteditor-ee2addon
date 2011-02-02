@@ -8,7 +8,7 @@
 	* @author		3Easy <http://3easy.org>
 	* @copyright	Copyright (c) 2011 3Easy <http://3easy.org>
 	* @license		http://creativecommons.org/licenses/by-sa/3.0/
-	* @see			https://github.com/3Easy/lasteditor
+	* @see			https://github.com/3Easy/last_editor.ee2_addon
 	*/
 	
 	class Last_editor_ext 
@@ -18,7 +18,7 @@
 		public $version			= '1.0.0';
 		public $description		= 'Add {last_editor} tag to exp:channel:entries';
 		public $settings_exist	= 'n';
-		public $docs_url		= 'https://github.com/3Easy/lasteditor';
+		public $docs_url		= 'https://github.com/3Easy/last_editor.ee2_addon';
 		
 	   /**
 		* Constructor
